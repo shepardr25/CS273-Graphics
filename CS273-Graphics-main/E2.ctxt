@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=E2
+comment0.text=\ class\ E2\r\n\r\n\ The\ important\ thing\ that\ we\ need\ to\ do\ in\ this\ class\ is\ to\ override\ the\r\n\ 'paint'\ method.\ \ \r\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\ the\ "paint"\ method,\ that\ specifies\ what\ to\ draw\ on\ the\ screen\r\n\r\n\ This\ method\ contains\ errors\!\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ main\r\n\r\n\ All\ Java\ programs\ start\ with\ a\ method\ named\ main.\ \ This\ class'\ main\r\n\ method\ creates\ the\ window\ to\ display\ the\ path\ in.\r\n\r\n\ IMPORTANT\:\ \ DO\ NOT\ MODIFY\ THIS\ METHOD\r\n
+numComments=3

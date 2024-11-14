@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CoordinateSystem
+comment0.text=\ class\ CoordinateSystem\r\n\ \r\n\ This\ class\ demonstrates\ the\ coordinate\ system\ (origin\ at\ top-left)\r\n\ and\ is\ meant\ to\ be\ integrated\ into\ the\ Boxes\ class.\r\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+numComments=2
