@@ -34,16 +34,21 @@ public class Boxes extends Canvas
             - The origin at the top-left (50, 50).
         */
        
-        //These statements draw some boxes, but they are not the boxes you want.
+        //These statements below draw some boxes, but they are not the boxes you want.
+        /* IMPORTANT note for the boxes:
+            - The boxes are labeled with the order they should be in. 
+            - The top (inner) box is the last box drawn in the list
+        */
+        
         //Replace them with the correct code.
          g.setColor(Color.BLUE);  // Outer box
-        g.fillRect(50, 50, 400, 400);
+        g.fillRect(25, 100, 300, 500);
 
         g.setColor(Color.RED);  // Middle box
-        g.fillRect(100, 100, 300, 300);
+        g.fillRect(350, 200, 100, 400);
 
         g.setColor(Color.GREEN);  // Inner box
-        g.fillRect(150, 150, 200, 200); 
+        g.fillRect(90, 300, 400, 100); 
     }//paint
 
     /**
