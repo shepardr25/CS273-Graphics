@@ -25,7 +25,7 @@ The changes are important for the following reasons:
 
 - Improved Understanding of the Coordinate System:
   - Importance: The addition of the coordinate grid makes the program more intuitive for students learning Java graphics. It visually represents the coordinate axes, helping them better understand how objects are positioned in relation to each other. This is especially important for students who are new to programming or working with graphics, as it helps reduce confusion around coordinate-based drawing and alignment.
-- Improved Underswtanding of Layering Graphical Objects:
+- Improved Understanding of Layering Graphical Objects:
   - Importance: Understanding the drawing order is crucial when working with graphics. By clearly writing comments describing how the boxes are layered, I showed students how later drawings (like the red, blue, and green boxes) can cover earlier ones, which is a fundamental concept in many graphical applications. This teaches students the importance of drawing order when building more complex graphical user interfaces or games.
 - Enhanced User Experience and Visual Clarity:
   - Importance: By predetermining a simple 50 pixels jump per tick mark, it makes it easy for students to determine the size of the boxes being layered. The understanding of size will assist in understanding the correct order and relative to the coordinate grid. They can see the direct relationship between the grid and the shapes, which enhances the learning experience. This change ensures that future lessons involving object placement and graphical manipulation will build on this foundation.
